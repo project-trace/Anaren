@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\Get MAC Address.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Get Random.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Get Version.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Measure Module Current.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Read Nonvolatile Memory.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Read Digital IO.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Reset Module.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\RF Tester.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Write Nonvolatile Memory.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Write Digital IO.ewp</path>
+  </project>
+  <batchBuild>
+    <batchDefinition>
+      <name>All Launchpad</name>
+      <member>
+        <project>Get MAC Address</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>Get Random</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>Get Version</project>
+        <configuration>LaunchPad</configuration>
+      </member>
+      <member>
+        <project>Read Digital IO</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>Read Nonvolatile Memory</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>RF Tester</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>Write Digital IO</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>Write Nonvolatile Memory</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>Reset Module</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>Measure Module Current</project>
+        <configuration>Launchpad</configuration>
+      </member>
+    </batchDefinition>
+  </batchBuild>
+</workspace>
+
+

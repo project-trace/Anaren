@@ -1,0 +1,5 @@
+Release Notes
+=============
+2 Nov 2012
+- A2530E24x Booster Pack kit released
+- initial release

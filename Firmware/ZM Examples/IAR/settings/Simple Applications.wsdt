@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+    
+    
+  <CurrentConfigs><Project>Simple Application - End Device/Launchpad</Project><Project>Simple Application - Router/Launchpad</Project><Project>Network Explorer/Launchpad</Project><Project>Simple Application - Coordinator/Launchpad</Project></CurrentConfigs><CurrentProj>Simple Application - Coordinator</CurrentProj><OverviewSelected>1</OverviewSelected></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>496</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>888</ColumnWidth1><ColumnWidth2>405</ColumnWidth2><ColumnWidth3>59</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1185</ColumnWidth1></Debug-Log><Find-in-Files><ColumnWidth0>580</ColumnWidth0><ColumnWidth1>82</ColumnWidth1><ColumnWidth2>994</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-15167-3874</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>&lt;ws&gt;</ExpandedNode><ExpandedNode>&lt;ws&gt;/Network Explorer</ExpandedNode><ExpandedNode>&lt;ws&gt;/Network Explorer/Common</ExpandedNode><ExpandedNode>&lt;ws&gt;/Network Explorer/Output</ExpandedNode><ExpandedNode>&lt;ws&gt;/Simple Application - Coordinator</ExpandedNode><ExpandedNode>&lt;ws&gt;/Simple Application - Coordinator/Output</ExpandedNode><ExpandedNode>&lt;ws&gt;/Simple Application - Coordinator/ZM</ExpandedNode><ExpandedNode>&lt;ws&gt;/Simple Application - End Device</ExpandedNode><ExpandedNode>&lt;ws&gt;/Simple Application - End Device/HAL</ExpandedNode><ExpandedNode>&lt;ws&gt;/Simple Application - End Device/Messages</ExpandedNode><ExpandedNode>&lt;ws&gt;/Simple Application - End Device/Output</ExpandedNode><ExpandedNode>&lt;ws&gt;/Simple Application - Router</ExpandedNode><ExpandedNode>&lt;ws&gt;/Simple Application - Router/Messages</ExpandedNode><ExpandedNode>&lt;ws&gt;/Simple Application - Router/Output</ExpandedNode><ExpandedNode>Network Explorer</ExpandedNode><ExpandedNode>Network Explorer/Common</ExpandedNode><ExpandedNode>Network Explorer/HAL</ExpandedNode><ExpandedNode>Network Explorer/Messages</ExpandedNode><ExpandedNode>Network Explorer/Output</ExpandedNode><ExpandedNode>Network Explorer/ZM</ExpandedNode><ExpandedNode>Simple Application - Coordinator</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-20980-4174</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-4357-8579</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-20798-3774</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\ZM\module_errors.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\ZM\module_utilities.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\HAL\hal_AMS_TCS3414_color_sensor.c</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\example_simple_application_router_afzdo.c</Filename><XPos>0</XPos><YPos>105</YPos><SelStart>5879</SelStart><SelEnd>5879</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\example_simple_application_end_device_afzdo.c</Filename><XPos>0</XPos><YPos>79</YPos><SelStart>3702</SelStart><SelEnd>3702</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\example_network_explorer.c</Filename><XPos>0</XPos><YPos>126</YPos><SelStart>5041</SelStart><SelEnd>5041</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\example_simple_application_coordinator_afzdo.c</Filename><XPos>0</XPos><YPos>87</YPos><SelStart>4119</SelStart><SelEnd>4119</SelEnd></Tab><ActiveTab>6</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0269be30><key>iaridepm.enu1</key></Toolbar-0269be30></Sizes></Row0><Row1><Sizes/></Row1><Row2><Sizes/></Row2><Row3><Sizes/></Row3></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>699</Bottom><Right>587</Right><x>-2</x><y>-2</y><xscreen>307</xscreen><yscreen>353</yscreen><sizeHorzCX>182738</sizeHorzCX><sizeHorzCY>350198</sizeHorzCY><sizeVertCX>350595</sizeVertCX><sizeVertCY>695437</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>264</Bottom><Right>1682</Right><x>-2</x><y>-2</y><xscreen>1684</xscreen><yscreen>266</yscreen><sizeHorzCX>1002381</sizeHorzCX><sizeHorzCY>263889</sizeHorzCY><sizeVertCX>182738</sizeVertCX><sizeVertCY>350198</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

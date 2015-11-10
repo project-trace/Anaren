@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+    
+    
+  <CurrentConfigs><Project>Basic Comms - Coordinator - AFZDO/Launchpad</Project><Project>Basic Comms - Coordinator - SAPI/Launchpad</Project><Project>Basic Comms - End Device - AFZDO/Launchpad</Project><Project>Basic Comms - Router - AFZDO/Launchpad</Project><Project>Fragmentation - Coordinator - AFZDO/Launchpad</Project><Project>Basic Comms - Router - SAPI/Launchpad</Project><Project>Fragmentation - Router - AFZDO/Launchpad</Project><Project>Secure Comms - Coordinator - AFZDO/Launchpad</Project><Project>Secure Comms - Router - AFZDO/Launchpad</Project></CurrentConfigs><CurrentProj>Secure Comms - Coordinator - AFZDO</CurrentProj><OverviewSelected>1</OverviewSelected></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>458</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+    <Build><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1006</ColumnWidth1><ColumnWidth2>268</ColumnWidth2><ColumnWidth3>67</ColumnWidth3></Build><TerminalIO/><Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1342</ColumnWidth1></Debug-Log><Find-in-Files><ColumnWidth0>423</ColumnWidth0><ColumnWidth1>60</ColumnWidth1><ColumnWidth2>726</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-490-18705</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>&lt;ws&gt;</ExpandedNode><ExpandedNode>Basic Comms - Coordinator - AFZDO</ExpandedNode><ExpandedNode>Basic Comms - Coordinator - SAPI</ExpandedNode><ExpandedNode>Basic Comms - End Device - AFZDO</ExpandedNode><ExpandedNode>Basic Comms - End Device - AFZDO/HAL</ExpandedNode><ExpandedNode>Basic Comms - End Device - AFZDO/ZM</ExpandedNode><ExpandedNode>Basic Comms - Router - AFZDO</ExpandedNode><ExpandedNode>Fragmentation - Coordinator - AFZDO</ExpandedNode><ExpandedNode>Fragmentation - Router - AFZDO</ExpandedNode><ExpandedNode>Secure Comms - Coordinator - AFZDO</ExpandedNode><ExpandedNode>Secure Comms - Router - AFZDO</ExpandedNode><ExpandedNode>Secure Comms - Router - AFZDO/HAL</ExpandedNode><ExpandedNode>Secure Comms - Router - AFZDO/Output</ExpandedNode><ExpandedNode>Secure Comms - Router - AFZDO/Output/Secure Comms - Router - AFZDO.d43</ExpandedNode><ExpandedNode>Secure Comms - Router - AFZDO/Output/Secure Comms - Router - AFZDO.d43/Output</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3><Tabs><Tab><Identity>TabID-32079-28004</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-16412-4819</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-20942-30235</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\ZM\module.c</Filename><XPos>0</XPos><YPos>890</YPos><SelStart>38510</SelStart><SelEnd>38510</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\ZM\module.h</Filename><XPos>0</XPos><YPos>69</YPos><SelStart>2970</SelStart><SelEnd>2988</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\ZM\module_utilities.c</Filename><XPos>0</XPos><YPos>123</YPos><SelStart>650</SelStart><SelEnd>650</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\ZM\simple_api.c</Filename><XPos>0</XPos><YPos>265</YPos><SelStart>13703</SelStart><SelEnd>13703</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\example_basic_comms_router_afzdo.c</Filename><XPos>0</XPos><YPos>58</YPos><SelStart>3580</SelStart><SelEnd>3580</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\example_basic_comms_end_device_afzdo.c</Filename><XPos>0</XPos><YPos>65</YPos><SelStart>3947</SelStart><SelEnd>3947</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\example_basic_comms_router_sapi.c</Filename><XPos>0</XPos><YPos>43</YPos><SelStart>2883</SelStart><SelEnd>2883</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\example_fragmentation_router_afzdo.c</Filename><XPos>0</XPos><YPos>54</YPos><SelStart>3265</SelStart><SelEnd>3265</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\example_secure_comms_router_afzdo.c</Filename><XPos>0</XPos><YPos>45</YPos><SelStart>2850</SelStart><SelEnd>2850</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\HAL\hal_launchpad.c</Filename><XPos>0</XPos><YPos>301</YPos><SelStart>12328</SelStart><SelEnd>12328</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\example_basic_comms_coordinator_afzdo.c</Filename><XPos>0</XPos><YPos>35</YPos><SelStart>2376</SelStart><SelEnd>2376</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\example_fragmentation_coordinator_afzdo.c</Filename><XPos>0</XPos><YPos>49</YPos><SelStart>3045</SelStart><SelEnd>3045</SelEnd></Tab><ActiveTab>11</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0269be30><key>iaridepm.enu1</key></Toolbar-0269be30></Sizes></Row0><Row1><Sizes/></Row1><Row2><Sizes/></Row2></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>783</Bottom><Right>532</Right><x>-2</x><y>-2</y><xscreen>92</xscreen><yscreen>180</yscreen><sizeHorzCX>54762</sizeHorzCX><sizeHorzCY>178571</sizeHorzCY><sizeVertCX>317857</sizeVertCX><sizeVertCY>778770</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>180</Bottom><Right>1682</Right><x>-2</x><y>-2</y><xscreen>1684</xscreen><yscreen>182</yscreen><sizeHorzCX>1002381</sizeHorzCX><sizeHorzCY>180556</sizeHorzCY><sizeVertCX>67262</sizeVertCX><sizeVertCY>183532</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

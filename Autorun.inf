@@ -1,0 +1,14 @@
+[autorun]
+label=AIR A2530 BoosterPack
+open=AutoRun.exe
+icon=AutoRun.exe,0
+action=AIR A2530 BoosterPack
+shellexecute=AutoRun.exe
+shell\runAirA2530\command=AutoRun.exe
+shell\runAirA2530=&Run AIR A2530 BoosterPack CD Menu
+shell=runAirA2530
+
+[Content]
+MusicFiles=0
+PictureFiles=0
+VideoFiles=0

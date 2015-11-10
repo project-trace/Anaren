@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+    
+    
+  <CurrentConfigs><Project>Write Nonvolatile Memory/Launchpad</Project><Project>RF Tester/Launchpad</Project><Project>Write Digital IO/Launchpad</Project><Project>Read Nonvolatile Memory/Launchpad</Project><Project>Measure Module Current/Launchpad</Project><Project>Read Digital IO/Launchpad</Project><Project>Reset Module/Launchpad</Project><Project>Get Version/LaunchPad</Project><Project>Get Random/Launchpad</Project><Project>Get MAC Address/Launchpad</Project></CurrentConfigs><CurrentProj>RF Tester</CurrentProj><OverviewSelected>1</OverviewSelected></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>385</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1054</ColumnWidth1><ColumnWidth2>281</ColumnWidth2><ColumnWidth3>70</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Debug-Log><ColumnWidth0>22</ColumnWidth0><ColumnWidth1>1404</ColumnWidth1></Debug-Log><Find-in-Files><ColumnWidth0>580</ColumnWidth0><ColumnWidth1>82</ColumnWidth1><ColumnWidth2>994</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-2352-26485</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>&lt;ws&gt;</ExpandedNode><ExpandedNode>Get MAC Address</ExpandedNode><ExpandedNode>Get MAC Address/HAL</ExpandedNode><ExpandedNode>Get MAC Address/ZM</ExpandedNode><ExpandedNode>Get Random</ExpandedNode><ExpandedNode>Get Random/Common</ExpandedNode><ExpandedNode>Get Random/HAL</ExpandedNode><ExpandedNode>Get Random/Output</ExpandedNode><ExpandedNode>Get Version</ExpandedNode><ExpandedNode>Get Version/HAL</ExpandedNode><ExpandedNode>RF Tester</ExpandedNode><ExpandedNode>RF Tester/Common</ExpandedNode><ExpandedNode>RF Tester/HAL</ExpandedNode><ExpandedNode>RF Tester/ZM</ExpandedNode><ExpandedNode>Read Digital IO</ExpandedNode><ExpandedNode>Read Digital IO/Common</ExpandedNode><ExpandedNode>Read Digital IO/HAL</ExpandedNode><ExpandedNode>Read Nonvolatile Memory</ExpandedNode><ExpandedNode>Read Nonvolatile Memory/Common</ExpandedNode><ExpandedNode>Read Nonvolatile Memory/HAL</ExpandedNode><ExpandedNode>Reset Module</ExpandedNode><ExpandedNode>Reset Module/HAL</ExpandedNode><ExpandedNode>Reset Module/ZM</ExpandedNode><ExpandedNode>Write Digital IO</ExpandedNode><ExpandedNode>Write Digital IO/HAL</ExpandedNode><ExpandedNode>Write Nonvolatile Memory</ExpandedNode><ExpandedNode>Write Nonvolatile Memory/HAL</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-26232-26652</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-27342-4506</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-26666-12241</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane/><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0269be30><key>iaridepm.enu1</key></Toolbar-0269be30></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>666</Bottom><Right>459</Right><x>-2</x><y>-2</y><xscreen>231</xscreen><yscreen>211</yscreen><sizeHorzCX>137500</sizeHorzCX><sizeHorzCY>209325</sizeHorzCY><sizeVertCX>274405</sizeVertCX><sizeVertCY>662698</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>297</Bottom><Right>1682</Right><x>-2</x><y>-2</y><xscreen>1684</xscreen><yscreen>299</yscreen><sizeHorzCX>1002381</sizeHorzCX><sizeHorzCY>296627</sizeHorzCY><sizeVertCX>137500</sizeVertCX><sizeVertCY>209325</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\Button Interrupt.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Hello World.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\I2C Test.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Read Color Sensor.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Read EEPROM.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Read IR Temperature Sensor.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Read Supply Voltage.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Timer Interrupt.ewp</path>
+  </project>
+  <batchBuild>
+    <batchDefinition>
+      <name>All Launchpad</name>
+      <member>
+        <project>Button Interrupt</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>Hello World</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>Read Supply Voltage</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>Timer Interrupt</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>I2C Test</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>Read Color Sensor</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>Read IR Temperature Sensor</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>Read EEPROM</project>
+        <configuration>Launchpad</configuration>
+      </member>
+    </batchDefinition>
+  </batchBuild>
+</workspace>
+
+

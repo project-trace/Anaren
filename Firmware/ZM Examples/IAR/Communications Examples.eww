@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\Basic Comms - Coordinator - AFZDO.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Basic Comms - Coordinator - SAPI.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Basic Comms - End Device - AFZDO.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Basic Comms - Router - AFZDO.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Basic Comms - Router - SAPI.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Fragmentation - Coordinator - AFZDO.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Fragmentation - Router - AFZDO.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Secure Comms - Coordinator - AFZDO.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Secure Comms - Router - AFZDO.ewp</path>
+  </project>
+  <batchBuild>
+    <batchDefinition>
+      <name>Launchpad</name>
+      <member>
+        <project>Basic Comms - Router - SAPI</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>Basic Comms - Router - AFZDO</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>Basic Comms - Coordinator - SAPI</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>Basic Comms - Coordinator - AFZDO</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>Fragmentation - Coordinator - AFZDO</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>Fragmentation - Router - AFZDO</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>Secure Comms - Router - AFZDO</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>Basic Comms - End Device - AFZDO</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>Secure Comms - Coordinator - AFZDO</project>
+        <configuration>Launchpad</configuration>
+      </member>
+    </batchDefinition>
+  </batchBuild>
+</workspace>
+
+

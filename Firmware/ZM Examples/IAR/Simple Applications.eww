@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\Network Explorer.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Simple Application - Coordinator.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Simple Application - End Device.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\Simple Application - Router.ewp</path>
+  </project>
+  <batchBuild>
+    <batchDefinition>
+      <name>All Launchpad</name>
+      <member>
+        <project>Simple Application - Coordinator</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>Simple Application - End Device</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>Simple Application - Router</project>
+        <configuration>Launchpad</configuration>
+      </member>
+      <member>
+        <project>Network Explorer</project>
+        <configuration>Launchpad</configuration>
+      </member>
+    </batchDefinition>
+  </batchBuild>
+</workspace>
+
+

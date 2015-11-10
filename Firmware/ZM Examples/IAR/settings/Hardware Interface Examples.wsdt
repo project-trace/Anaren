@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+    
+    
+  <CurrentConfigs><Project>I2C Test/Launchpad</Project><Project>Button Interrupt/Launchpad</Project><Project>Hello World/Launchpad</Project><Project>Read Color Sensor/Launchpad</Project><Project>Read Supply Voltage/Launchpad</Project><Project>Read IR Temperature Sensor/Launchpad</Project><Project>Read EEPROM/Launchpad</Project><Project>Timer Interrupt/Launchpad</Project></CurrentConfigs><CurrentProj>Hello World</CurrentProj><OverviewSelected>1</OverviewSelected></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>533</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>888</ColumnWidth1><ColumnWidth2>237</ColumnWidth2><ColumnWidth3>59</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1185</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-15418-5507</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>&lt;ws&gt;</ExpandedNode><ExpandedNode>&lt;ws&gt;/Read Temperature Sensor</ExpandedNode><ExpandedNode>&lt;ws&gt;/Test</ExpandedNode><ExpandedNode>&lt;ws&gt;/Test/test.c</ExpandedNode><ExpandedNode>Button Interrupt</ExpandedNode><ExpandedNode>Hello World</ExpandedNode><ExpandedNode>I2C Test</ExpandedNode><ExpandedNode>Read Color Sensor</ExpandedNode><ExpandedNode>Read Color Sensor/Output</ExpandedNode><ExpandedNode>Read IR Temperature Sensor</ExpandedNode><ExpandedNode>Read Supply Voltage</ExpandedNode><ExpandedNode>Timer Interrupt</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          
+        <Tab><Identity>TabID-6983-25002</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-1242-4061</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>1</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\example_hello_world.c</Filename><XPos>0</XPos><YPos>36</YPos><SelStart>2974</SelStart><SelEnd>2974</SelEnd></Tab><ActiveTab>0</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0269be30><key>iaridepm.enu1</key></Toolbar-0269be30></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>816</Bottom><Right>607</Right><x>-2</x><y>-2</y><xscreen>256</xscreen><yscreen>221</yscreen><sizeHorzCX>152381</sizeHorzCX><sizeHorzCY>219246</sizeHorzCY><sizeVertCX>362500</sizeVertCX><sizeVertCY>811508</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>147</Bottom><Right>1682</Right><x>-2</x><y>-2</y><xscreen>1684</xscreen><yscreen>149</yscreen><sizeHorzCX>1002381</sizeHorzCX><sizeHorzCY>147817</sizeHorzCY><sizeVertCX>152381</sizeVertCX><sizeVertCY>219246</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
